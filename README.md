@@ -19,9 +19,7 @@ Currently, it supports the following commands:
 
 ✅ $meme – Fetches and sends a random meme from Reddit.
 
-✅ $insta_dev – Shares Instagram account link of the developer (or your profile, if
-
-applicable).
+✅ $insta_dev – Shares Instagram account link of the developer (or your profile, if applicable).
 
 
 
